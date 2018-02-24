@@ -351,7 +351,7 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    m_SelectedIDs: 6a010000
     m_LastClickedID: 0
     m_ExpandedIDs: 9efbffff00000000
     m_RenameOverlay:
@@ -453,13 +453,13 @@ MonoBehaviour:
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: E:\Sabana\11 semestre\backupprogramacion\CamiloAlvarez-SolarSystem
+  m_LastProjectPath: E:\Sabana\11 semestre\CamiloAlvarez-SolarSystem\CamiloAlvarez-SolarSystem
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: b6280000
     m_LastClickedID: 10422
-    m_ExpandedIDs: 000000005c270000a8270000ec27000010280000
+    m_ExpandedIDs: 000000005c27000086270000a8270000ec27000010280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -680,7 +680,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.09854688, y: -0.4759595, z: 0.05377251, w: 0.87227285}
     speed: 2
-    m_Value: {x: 0.09854686, y: -0.47595945, z: 0.0537725, w: 0.87227273}
+    m_Value: {x: -0.09854688, y: 0.47595954, z: -0.05377251, w: -0.87227285}
   m_Size:
     m_Target: 228.16861
     speed: 2
